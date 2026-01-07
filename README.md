@@ -1,10 +1,10 @@
 Generalized Data Structure Library (C++)
-📌 Overview
+Overview
 
 A generalized data structure library implemented in C++, providing reusable and scalable implementations of various linked list variants.
 The library is data-type independent, allowing users to create multiple linked lists of different data types simultaneously.
 
-✨ Features
+** Features
 
 Supports multiple types of linked lists
 
@@ -16,7 +16,7 @@ Modular and reusable design
 
 Easy to extend with additional data structures
 
-📚 Supported Linked Lists
+** Supported Linked Lists
 
 The library currently includes the following generalized linked list implementations:
 
@@ -28,7 +28,7 @@ Doubly Linear Linked List
 
 Doubly Circular Linked List
 
-🛠️ Technologies Used
+** Technologies Used
 
 Language: C++
 
